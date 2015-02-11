@@ -1,0 +1,16 @@
+	Line 156: 2/10/2015 15:16:01.066 [INFO] Event: targeting_service_load, OccurredAt: 15:15:55:725, Duration: 640ms, Elapsed time since occurred: 5340ms
+	Line 157: Event: waiting_for_stage_dimensions, OccurredAt: 15:15:55:726, Duration: 1071ms, Elapsed time since occurred: 5339ms
+	Line 158: Event: kk_playercode_constructor, OccurredAt: 15:15:55:693, Duration: 33ms, Elapsed time since occurred: 5372ms
+	Line 159: Event: fw_swf_load_init, OccurredAt: 15:15:55:693, Duration: 667ms, Elapsed time since occurred: 5372ms
+	Line 160: Event: application_load, OccurredAt: 15:15:55:693, Duration: 1075ms, Elapsed time since occurred: 5372ms
+	Line 161: Event: kk_targeting_svc, OccurredAt: 15:15:56:365, Duration: 0ms, Elapsed time since occurred: 4700ms
+	Line 162: Event: kk_fw_load, OccurredAt: 15:15:56:360, Duration: 3ms, Elapsed time since occurred: 4705ms
+	Line 163: Event: kk_on_init, OccurredAt: 15:15:56:882, Duration: 798ms, Elapsed time since occurred: 4183ms
+	Line 164: Event: kk_admodelfw_entry, OccurredAt: 15:15:56:365, Duration: 719ms, Elapsed time since occurred: 4700ms
+	Line 165: Event: msg_laodvideo_received, OccurredAt: 15:15:57:978, Duration: 0ms, Elapsed time since occurred: 3088ms
+	Line 166: Event: kk_ads_load_time, OccurredAt: 15:15:57:686, Duration: 705ms, Elapsed time since occurred: 3380ms
+	Line 167: Event: widget_loaded, OccurredAt: 15:15:57:680, Duration: 0ms, Elapsed time since occurred: 3386ms
+	Line 168: Event: fw_ads_load, OccurredAt: 15:15:58:394, Duration: 687ms, Elapsed time since occurred: 2672ms
+	Line 169: Event: msg_playvideo_received, OccurredAt: 15:15:58:132, Duration: 0ms, Elapsed time since occurred: 2934ms
+	Line 170: Event: fw_ads_request, OccurredAt: 15:15:58:692, Duration: 370ms, Elapsed time since occurred: 2374ms
+	Line 171: Event: video_playing, OccurredAt: 15:16:1:64, Duration: 0ms, Elapsed time since occurred: 2ms
